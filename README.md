@@ -20,4 +20,4 @@ Inside this repository: - Organized files for each task, with clear documentatio
 3. HANDWRITTEN TEXT GENERATION:
    Implement a character-level recurrent neural network (RNN) to generate handwritten-like text. Train the model on a dataset of handwritten text examples, and let it generate new text based on the learned patterns.
 
-   Thanks to CodSoft for providing this opportunity.
+Thanks to CodSoft for providing this opportunity.
